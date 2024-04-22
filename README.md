@@ -1,4 +1,4 @@
-<h2># WooOmmerce Tierd Cart Discounts<h2>
+<h2>Easy Tiered Pricing for WooCommerce<h2>
 <hr>
 <p>With Easy Tiered Pricing, you can effortlessly set up discounts based on cart total ranges, making it easy for your customers to enjoy discounts as they spend more.</p>
 
